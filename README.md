@@ -3,6 +3,8 @@
 An open-source interactive 3D data visualization tool for exploring complex systems.
 Move between layers, filter information, and study how elements interconnect to reveal underlying system dynamics.
 
+[Interact with live example](https://transformativetimes.github.io/multi-layer-systems-visualization/)
+
 ![Multi-Layer Systems Visualization](./doc_imgs/multi-layer-system.jpg)
 
 ### Features
