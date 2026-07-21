@@ -81,7 +81,7 @@ Structure your data with:
 
 ### Load your data
 
-Replace the sample data in `public/data/data.json` with your own data following the same JSON structure.
+Replace the sample data in `public/data/data.json` with your data following the same JSON structure.
 
 
 ### Build for Production
